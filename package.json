@@ -1,0 +1,8 @@
+{
+  "name": "megz-npm",
+  "version": "1.0.0",
+  "description": "megz-npm is useless package for testing",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
